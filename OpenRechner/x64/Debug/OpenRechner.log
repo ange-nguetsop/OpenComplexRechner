@@ -1,3 +1,3 @@
 ﻿  OpenRechner.cpp
-C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\OpenRechner\OpenRechner\OpenRechner.cpp(254,12): warning C4129: "^": nicht erkannte Folge von Escapesequenz
-  OpenRechner.vcxproj -> C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\OpenRechner\x64\Debug\OpenRechner.exe
+C:\Users\nguet\OneDrive\Desktop\OpenRechner\OpenRechner\OpenRechner\OpenRechner.cpp(254,12): warning C4129: "^": nicht erkannte Folge von Escapesequenz
+  OpenRechner.vcxproj -> C:\Users\nguet\OneDrive\Desktop\OpenRechner\OpenRechner\x64\Debug\OpenRechner.exe

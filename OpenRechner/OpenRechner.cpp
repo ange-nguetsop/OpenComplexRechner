@@ -6,7 +6,8 @@
 #define pi 3.14159265
 #pragma warning (disable: 4996)
 
-struct cmplx
+
+struct cmplx  // Structure for complex numbers
 {
     double real;
     double imag;
