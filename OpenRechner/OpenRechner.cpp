@@ -600,7 +600,6 @@ int main(void)
         else if (strstr(input, "+") != NULL)
 
         {
-            printf("Je suis entree ici\n");
 
             if (strstr(input, "=") != NULL)
             {
